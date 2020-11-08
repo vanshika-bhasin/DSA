@@ -1,3 +1,10 @@
+/* 
+Problem statement link:
+https://leetcode.com/explore/challenge/card/november-leetcoding-challenge/564/week-1-november-1st-november-7th/3516/
+*/
+
+
+
 /* APPROACH
     1. count the Number of node to find the length of the Binary number [linked list iteration];
     
