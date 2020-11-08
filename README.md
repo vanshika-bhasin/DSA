@@ -3,7 +3,7 @@
 <p>
 <h3>Data Structure:</h3> Multiple ways to organise data in a computer. For example array, linkedlist.
 <br>
-<h3>Algorithms:</h3> An Algorithm is a list of steps that you can follow to finish a task. For example searching a path to home. 
+<h3>Algorithms:</h3> An Algorithm is a list of steps that you can follow to finish a task. 
 
 </p>
 <br>
