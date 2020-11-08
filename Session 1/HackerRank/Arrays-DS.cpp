@@ -1,5 +1,11 @@
+/* Problem statement link:
+https://www.hackerrank.com/challenges/arrays-ds/problem
+*/
+
+
 // Complete the reverseArray function below.
 vector<int> reverseArray(vector<int> a) {
+    
     /* APPROACH
         arr[] = 1 3 2 6 8 0 5
         reversed arr[] = 5 0 8 6 2 3 1     Middle = 7/2 = 3.5 = 3 (in INT)
