@@ -4,7 +4,6 @@
   <li>One Programming Question link will be post everyday on <a href="https://dscuietkuk.slack.com/app_redirect?channel=dsa">#dsa</a> slack channel from <b> 15 - 30th December 2020</b>.</li>
   <li>Solve the problem and upload it on DSC’s github DSA repository and create a Pull Request. <br><b>(Before Creating Pull Request first read <a href="CONTRIBUTING.md">CONTRIBUTING.md</a> file carefully.)</b></li>
   </ol>
-  <br>
   <h3>Perks:-</h3>
   <ol>
   <li>Certificate of Particpation will be provided to every Participant.</li>
