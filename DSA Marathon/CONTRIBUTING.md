@@ -6,3 +6,5 @@
 4. Read the question from the Question.md file and write some code & run it against the test cases.
 5. Upload/Add your file in the Solution folder of that Day with your username.extension. For eg:- `vermagaurav8.cpp` or `vermagaurav8.py` or `vermagaurav8.java`.
 6. Create a Pull Request and then you're all done!
+
+<h5>Remember it, Plagiarism will lead to Disqualification.<h5>
